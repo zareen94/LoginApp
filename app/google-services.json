@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1077826061329",
+    "firebase_url": "https://loginapp-10b17.firebaseio.com",
+    "project_id": "loginapp-10b17",
+    "storage_bucket": "loginapp-10b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077826061329:android:4e2eb8a57494afc0",
+        "android_client_info": {
+          "package_name": "com.example.yeen.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077826061329-bc4n5chr7u3b5vjtdc6iuaj8u3knu4fa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yeen.loginapp",
+            "certificate_hash": "76c07d7d08704fb0ae38bc0ef8ed6b192c99ecdb"
+          }
+        },
+        {
+          "client_id": "1077826061329-v50f3ivoe6vcal8f33l4vfpm9bt1s0an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNF1Terdgg8B91S9yYeWE9CAMk1GiFMo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077826061329-v50f3ivoe6vcal8f33l4vfpm9bt1s0an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
